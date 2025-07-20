@@ -33,7 +33,7 @@ A page to test:
 
 ### 👤 Member Signup
 
-![Member Page](images/member-form.png)
+![Member Page](images/Member-form.png)
 
 ### 🔐 Staff Login
 
