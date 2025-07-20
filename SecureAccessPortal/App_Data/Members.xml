@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+  This XML file stores registered member credentials for self-subscribed users.
+  Passwords are securely stored using SHA-256 hashing in Base64 format.
+-->
+<Users>
+  <!-- Each <User> node represents a registered member -->
+  <User>
+    <Username>admin</Username>
+    <!-- Note: This password is stored in plain text (not recommended in production) -->
+    <Password>admin</Password>
+  </User>
+  <User>
+    <Username>arslan</Username>
+    <!-- Hashed using SHA-256 -->
+    <Password>C+cBjbwUVgw53/DhpLdOsJVAPNveEdQgbAlS2lF5L2Q=</Password>
+  </User>
+  <User>
+    <Username>ad</Username>
+    <Password>cLozcIy/sQPxqONK/vMzun3AIQIrLZqqWDqruAWNjWc=</Password>
+  </User>
+  <User>
+    <Username>dummy</Username>
+    <Password>taLJYlBhI2bqJy/6xtl0Sq9LRarNlqp8/Lkx7jtVglk=</Password>
+  </User>
+  <User>
+    <Username>abdalla</Username>
+    <Password>NKYlM3reM9cr4czY68An9wFRjVE7bZbwf3fQsXMAwpc=</Password>
+  </User>
+  <User>
+    <Username>234</Username>
+    <Password>EUvRUfj7DFhkLSFw2krn18V5dyYKwsyJBTBsq2sqyrw=</Password>
+  </User>
+  <User>
+    <Username>ars</Username>
+    <Password>aHvWqRfU0R4xfuPUR8C4l9MWnwbKpZ0TZYyY/aW9llc=</Password>
+  </User>
+  <User>
+    <Username>adi</Username>
+    <Password>iC+u/ig3H4FFuIDIPIO8fdSX4lHrZoavMOUJp181ukQ=</Password>
+  </User>
+</Users>

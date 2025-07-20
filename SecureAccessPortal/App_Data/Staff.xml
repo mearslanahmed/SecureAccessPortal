@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  This XML file contains credentials and roles for staff login.
+  Passwords are hashed using SHA-256 and stored as Base64 strings.
+  The <Role> determines access level: Admin or Manager.
+-->
+
+<StaffUsers>
+	<!-- Admin user with full access to Staff1.aspx -->
+	<User>
+		<Username>admin</Username>
+		<Password>JAvlGPq9JyTdtvBO6x2llnRI1+gxwIyPqCKAn3THIKk=</Password>
+		<Role>Admin</Role>
+	</User>
+
+	<!-- Manager user with access to Staff2.aspx -->
+	<User>
+		<Username>manager</Username>
+		<Password>hmSFeWz6jXwM9xEWQCBbgwdkM1R1d1EdgfgDCumezqU=</Password>
+		<Role>Manager</Role>
+	</User>
+</StaffUsers>
